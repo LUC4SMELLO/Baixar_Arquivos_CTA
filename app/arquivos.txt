@@ -1,0 +1,15 @@
+Arquivo Fical: 	
+	Gerencial
+	Integração
+	Exportação Dados Competência
+
+Arquivo Dirigida:
+	Gerencial
+	Coleções
+	Cobertura por SKU
+	Iniciativa Dirigida
+
+Arquivo Combinada:
+	Cobertura Múltipla - Negra
+
+Caminho para Colar Arquivos: D:\IND\AnalyticsCTA\Dados
